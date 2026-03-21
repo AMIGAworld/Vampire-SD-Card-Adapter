@@ -8,7 +8,7 @@
 
 # Vampire SD Card Adapter V1
 
-Alternative SD Card Adapter for your Vampire Standalone, Firebird or Manticore where you can direct boot of the card. 
+Alternative SD Card Adapter for your Vampire Standalone, Firebird or Manticore from [Apollo-Computer](https://apollo-computer.com/) where you can direct boot of the card (depending on Core Revision). 
 
 Not compatible with Icedrake.
 
