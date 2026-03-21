@@ -1,6 +1,6 @@
-[![Watchers](https://img.shields.io/github/watchers/AMIGAworld/Vampire-SD-Card-Adapter)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/watchers)
-[![Forks](https://img.shields.io/github/forks/AMIGAworld/Vampire-SD-Card-Adapter)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/forks)
-[![Stars](https://img.shields.io/github/stars/AMIGAworld/Vampire-SD-Card-Adapter)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/AMIGAworld/Vampire-SD-Card-Adapter?style=flat)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/watchers)
+[![Forks](https://img.shields.io/github/forks/AMIGAworld/Vampire-SD-Card-Adapter?style=flat)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/forks)
+[![Stars](https://img.shields.io/github/stars/AMIGAworld/Vampire-SD-Card-Adapter?style=flat)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/stargazers)
 [![Issues](https://img.shields.io/github/issues/AMIGAworld/Vampire-SD-Card-Adapter)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/issues)
 ![Downloads](https://img.shields.io/github/downloads/AMIGAworld/Vampire-SD-Card-Adapter/total)
 
