@@ -20,4 +20,4 @@ Not compatible with Icedrake.
 
 # Requierements
 
-An additional IDC cable with 2x5 Pins and 2.54mm Pitch to connect to your Vampire is needed.
+An additional IDC cable with 2x5 Pins and 2.54mm Pitch to connect to your Vampire Standalone (P22), Firebird (P22) or Manticore (P22) is needed.
