@@ -18,7 +18,7 @@ Not compatible with Icedrake.
 
 ![Back](Media/vampire_sd_card_adapter_v1_rev_A_2.jpg)
 
-# Requierements
+# Requirements
 
 An additional IDC cable with 2x5 Pins and 2.54mm Pitch to connect to your Vampire Standalone (P22), Firebird (P22) or Manticore (P22) is needed.
 
