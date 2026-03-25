@@ -2,7 +2,6 @@
 [![Forks](https://img.shields.io/github/forks/AMIGAworld/Vampire-SD-Card-Adapter?style=flat)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/forks)
 [![Stars](https://img.shields.io/github/stars/AMIGAworld/Vampire-SD-Card-Adapter?style=flat)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/stargazers)
 [![Issues](https://img.shields.io/github/issues/AMIGAworld/Vampire-SD-Card-Adapter)](https://github.com/AMIGAworld/Vampire-SD-Card-Adapter/issues)
-![Downloads](https://img.shields.io/github/downloads/AMIGAworld/Vampire-SD-Card-Adapter/total)
 
 ![Logo](Media/banner.png)
 
@@ -17,6 +16,10 @@ Not compatible with Icedrake.
 ![Front](Media/vampire_sd_card_adapter_v1_rev_A_1.jpg)
 
 ![Back](Media/vampire_sd_card_adapter_v1_rev_A_2.jpg)
+
+# Production
+
+The BOM, CPL and Gerber files are pre-configured for easy use with [JLCPCB](https://jlcpcb.com/?from=GZKEZEKZOOPYPK)
 
 # Requirements
 
