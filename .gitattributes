@@ -1,0 +1,6 @@
+# Start of linguist script
+# KiCad Layout
+*.* linguist-detectable=true
+*.* linguist-documentation=false
+*.* linguist-language=KiCad-Layout
+# End of linguist script
