@@ -5,7 +5,7 @@
 
 ![Logo](Media/banner.png)
 
-# Vampire SD Card Adapter V1
+# Vampire SD Card Adapter
 
 Alternative SD Card Adapter for your Vampire Standalone, Firebird or Manticore from [Apollo-Computer](https://apollo-computer.com/) where you can direct boot of the card (depending on Core Revision). 
 
